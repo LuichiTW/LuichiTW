@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal projects<br>👯 I’m looking to collaborate on open source<br>🌱 I’m currently learning Vim<br>
+🔭 I’m currently working on my C coding skills<br>👯 I’m looking to create a game engine<br>🌱 I’m currently learning OpenGL<br>
 
 
 ## 🌐 Socials:
