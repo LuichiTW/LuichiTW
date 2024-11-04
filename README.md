@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my C coding skills<br>👯 I’m looking to create a game engine<br>🌱 I’m currently learning OpenGL<br>
+🔭 I’m currently working on my python coding skills<br>👯 I’m looking to create a game<br>🌱 I’m currently learning pygame<br>
 
 
 ## 🌐 Socials:
