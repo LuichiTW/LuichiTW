@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my python coding skills<br>👯 I’m looking to create a game<br>🌱 I’m currently learning pygame<br>
+🔭 I’m currently working on my functional coding skills<br>👯 I’m looking to create a game<br>🌱 I’m currently learning pygame<br>
 
 
 ## 🌐 Socials:
