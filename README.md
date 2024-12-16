@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my functional coding skills<br>👯 I’m looking to create a game in pygame<br>🌱 I’m currently learning haskell<br>
+🔭 I’m currently working on my personal proyect<br>👯 I’m looking to create a game in pygame<br>🌱 I’m currently learning haskell<br>
 
 
 ## 🌐 Socials:
